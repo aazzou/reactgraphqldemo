@@ -1,6 +1,6 @@
 ### React - GraphQL Client
 
-A React App using a GraphQL Api backend, See [https://gitlab.com/aazzou/reactgraphql](https://gitlab.com/aazzou/reactgraphql)
+A React App using a GraphQL Api backend, See [https://github.com/aazzou/railsgraphqldemo](https://github.com/aazzou/railsgraphqldemo)
 
 Created using create-react-app.
 
